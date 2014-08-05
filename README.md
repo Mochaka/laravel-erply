@@ -1,6 +1,6 @@
 # Laravel-Erply
 
-[![Latest Stable Version](https://poser.pugx.org/mochaka/laravel-erply/v/stable.png)](https://packagist.org/packages/mochaka/laravel-erply) [![Total Downloads](https://poser.pugx.org/mochaka/laravel-erply/downloads.png)](https://packagist.org/packages/mochaka/laravel-erply) [![Latest Unstable Version](https://poser.pugx.org/mochaka/laravel-erply/v/unstable.png)](https://packagist.org/packages/mochaka/laravel-erply) [![License](https://poser.pugx.org/mochaka/laravel-erply/license.png)](https://packagist.org/packages/mochaka/laravel-erply)
+[![Latest Stable Version](https://poser.pugx.org/mochaka/laravel-erply/v/stable.png)](https://packagist.org/packages/mochaka/laravel-erply) [![Total Downloads](https://poser.pugx.org/mochaka/laravel-erply/downloads.png)](https://packagist.org/packages/mochaka/laravel-erply) [![Latest Unstable Version](https://poser.pugx.org/mochaka/laravel-erply/v/unstable.png)](https://packagist.org/packages/mochaka/laravel-erply) [![License](https://poser.pugx.org/mochaka/laravel-erply/license.png)](https://packagist.org/packages/mochaka/laravel-erply) [![Build Status](https://travis-ci.org/Mochaka/laravel-erply.svg?branch=master)](https://travis-ci.org/Mochaka/laravel-erply)
 
 
 Laravel-Erply is a simple package to interface with Erply.com's API. Read http://erply.com/api for documentation on the valid api calls and parameters.
